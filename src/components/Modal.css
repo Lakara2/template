@@ -1,0 +1,9 @@
+.Modal {
+    background-color: #0d6efd;
+    border: 1px solid deepskyblue;
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    box-sizing: border-box;
+    transition: all 0.3s ease-in-out;
+    margin: auto;
+}
